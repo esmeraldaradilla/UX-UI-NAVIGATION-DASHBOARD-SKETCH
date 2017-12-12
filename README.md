@@ -20,7 +20,15 @@ Análisis sobre las áreas que conforman el UX y el UI de ###  laboratoria.la
   
   Seguramente vamos a querer que los usuarios que utilizan está página tengan una excelente experiencia para que sea proporcional a su consumo , quiero decir la finalidad es atraer mayor cantidad de mujeres postulantes que se sientan identificadas con el contenido que ofrece nuestra página y que entiendan lo que Laboratoria es capaz de ofrecerles.
 
- Entender necesidades es un premisa fundamental, ya que Laboratoria toma en cuenta tanto la demanda que tienen las empresas tech por desarrolladores web la cual es Insuficiente, y a su vez contempla la falta de mujeres desarrolladoras y toma esto último como campo de oportunidad para incluirlas en el ámbito tecnológico , cerrando de a poco la brecha de género y convenciéndolas de que pueden ser capaces de aprender a programar sin importar su nivel de estudio. Esto desde luego genera emociones por ejemplo seguridad, decisión, confianza y la esperanza de tener una vida más plena y laboralmente mejor remunerada y  al tener estas experiencias seguro es que postulen y además atraigan a más mujeres
+ Entender necesidades es un premisa fundamental, ya que Laboratoria toma en cuenta tanto la demanda que tienen las empresas tech por desarrolladores web la cual es Insuficiente, y a su vez contempla la falta de mujeres desarrolladoras y toma esto último como campo de oportunidad para incluirlas en el ámbito tecnológico , cerrando de a poco la brecha de género y convenciéndolas de que pueden ser capaces de aprender a programar sin importar su nivel de estudio. Esto desde luego genera emociones por ejemplo seguridad, decisión, confianza y la esperanza de tener una vida más plena y laboralmente mejor remunerada y  al tener estas experiencias seguro es que postulen y además atraigan a más mujeres.
+ 
+  El ui es toda la parte visual esta pagina no tiene muchas vistas es mas bien como una landingpage , en la.primera sección podemos observar los botones el logotipo la tipografía, los espacios distribuidos, esas decisiones al construir la pagina, todo tiene una misma lógica los colores todo es uniforme y hay datos importante y reales como las cifras hacen a mi parecer que se interese la gente ya que son datos reales, todo tiene la.misma lógica los elementos están centrados incluso las imágenes y el texto están equilibrados, por ejemplo el logró te lleva siempre a la página principal. Otro elemento para mí es la imagen yo pienso que tiene ambos componentes tanto ui como ux, ux toma la decisión del tema en la imagen y que funcione y el ui tiene la facultad de elegir la que mejor funcione, los textos y la jerarquía, los componentes mas los argumentos y los botones donde deseamos que ingresen sus datos tiene un.patrón que se repite a lo.largo de la.página, también el color de fondo en blanco nos hace poner atención a todo el contenido y así resaltar las partes importantes de cada sección
+
+
+
+
+
+
 
 
 

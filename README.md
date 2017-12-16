@@ -27,10 +27,16 @@ Análisis sobre las áreas que conforman el UX y el UI de ###  laboratoria.la
   
   NAVEGACIÓN:
   
-  Puedo destacar que principalmente en la página de Github.com la navegacion es global, antes de loguearnos nos muestra más como de qué va y ya una vez logueados podemos tener mas posibilidades de hecho la página es súper extensa, tiene demasiado contenido y no logré recorrerla toda solo las partes principales y pude notar que tiene varios tipos de navegacion, hay una parte que de acuerdo a los tipos de repositorios que busquemos nos sugiere algonos similares y para mí eso puede ser tipo de navegación suplementaria.
+  Puedo destacar que principalmente en la página de Github.com la navegacioón es local ya que antes de loguearnos nos muestra poco contenido. Ya una vez logueados podemos tener más posibilidades de hecho la página es súper extensa, tiene demasiado contenido y no logré recorrerla por completo solo las partes principales y pude notar que tiene varios tipos de navegación, hay una parte que de acuerdo a los tipos de repositorios que busquemos nos sugiere algunos similares y para mí ese tipo de navegación es contextual ya que da algunas recomendaciones.También encontré en la parte de los developers y los videos de presentación, hasta el final de la página viene lo que creo es la navegación Global, pero también noté que toda la información es se muestra como navegación filtrada.  
+  
+  SKETCHING:
+  
+  Este es un modelo que hice utilizando la herramienta balsamiq mockups (la verdad la había hecho a modo de boceto, sólo con lápiz y papel pero me quedó bastante garabateo y me dió pena subirla :) )
+  
+  Aqui dejo el link:
 
 
-
+  https://claseslaboratoria.slack.com/messages/D8EGNNW1X/
 
 
 
